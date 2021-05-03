@@ -1,0 +1,2 @@
+# controllo_accessi
+Il programma gestisce una RaspberryPi, due lettori RFID, una tastierino alfa-numerico ed una elettroserratura. Consente lo sblocco della elettroserratura solo alle persone autorizzate in possesso della card RFID conosciuta dal sistema, o da un codice numerico personalizzabile( digitabile sul tastierino ). Il sistema registra su file il log deglil accessi e produce un report degli accessi su carta intestata della azienda.
